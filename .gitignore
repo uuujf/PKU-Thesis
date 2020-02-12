@@ -1,0 +1,32 @@
+## misc
+.DS_store
+*.swp
+*.vscode/
+*.idea/
+*.ropeproject/
+*__pycache__/
+*.ipynb_checkpoints/
+*.pth.tar
+
+## latex
+*.aux
+*.out
+*.toc
+*.log
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.xdv
+*.dvi
+*.gz
+*.ps
+*.bcf
+*.xml
+
+thesis.pdf
+thesis-ch.pdf
+thesis-en.pdf
+
